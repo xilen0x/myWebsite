@@ -1,4 +1,18 @@
-body{
+body {
     background-color: whitesmoke;
-    color: wheat;
+}
+
+.navegacion {
+    color: whitesmoke;
+}
+
+li {
+    display: inline;
+}
+
+.container {
+border-color: black;
+border-style: dotted;
+padding-top: 10%;
+padding-bottom: 20%;
 }
