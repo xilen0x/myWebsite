@@ -1,0 +1,9 @@
+body {
+  padding-top: 56px;
+}
+
+
+.bg-cover {
+  background: url('http://127.0.0.1:5500/img/annie-spratt-foto.jpg') center center;
+  background-size: cover;
+}
